@@ -3,7 +3,7 @@
 This repository contains my HTML learning exercises and practice projects.  
 It documents my progress while building a strong foundation in web development.
 
-## 📚 Topics Covered
+## Topics Covered
 
 - HTML Document Structure
 - Headings and Paragraphs
@@ -15,12 +15,12 @@ It documents my progress while building a strong foundation in web development.
 - Iframes
 - Basic Web Page Creation
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - Visual Studio Code
 
-## 📂 Files
+## Files
 
 | File | Description |
 |------|-------------|
@@ -35,11 +35,11 @@ It documents my progress while building a strong foundation in web development.
 | `task1.html` | HTML practice task |
 | `task2.html` | Personal introduction page |
 
-## 🎯 Purpose
+## Purpose
 
 The purpose of this repository is to practice HTML concepts and improve my web development skills through hands-on exercises.
 
-## 👩‍💻 Author
+## Author
 
 **Archana S**
 
